@@ -1,5 +1,5 @@
 Gitの練習をしています
 Gitは難しいです
 git add
-fit commit
-
+git commit
+git rm
